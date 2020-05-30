@@ -10,7 +10,8 @@ UE4の初心者向けにBlueprintを学習するための教材用のプロジ�
 https://github.com/PaperSloth/Presentation/
 UE4Tutorial_PrimitiveShooter01_BaseProject.pptx が該当スライドです
 
-また、SlideshareにもスライドをアップしているためそちらからもDL可能です。
+また、SlideshareにもスライドをアップしているためそちらからもDL可能です。<br>
+https://www.slideshare.net/PaperSloth/ue4-3d-1
 
 完成イメージ
 ![image](https://user-images.githubusercontent.com/8968076/83334484-cedaab80-a2e1-11ea-8cbf-aefb82bba974.png)
